@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Child-BigFerao</string>
+    <string name="slogan_jobnow">เสิร์ฟงานดีๆมากมาย ให้คุณถึงที่</string>
+    <string name="text_exit">คุณต้องการจะออกจากโปรแกรมนี้ใช่หรือไม่</string>
+    <string name="text_confirm">ยืนยัน</string>
+    <string name="text_cancel">ยกเลิก</string>
+</resources>

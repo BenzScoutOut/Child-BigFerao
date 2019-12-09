@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorSecondary"
+        >
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/bg_splash" />
+
+        <ImageView
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/logo_wt_pwrby"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="142dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:fontFamily="@font/semibold"
+            android:text="@string/slogan_jobnow"
+            android:textColor="@color/colorPrimary"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="25dp" />
+
+    </RelativeLayout>
+
+
+</layout>
